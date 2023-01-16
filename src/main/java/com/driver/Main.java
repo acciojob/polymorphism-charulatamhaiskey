@@ -9,7 +9,7 @@ public class Main {
         double thirdansValue = p.product(5, 7);
     }
 
-    static class Product {
+    public static class Product {
         public int product(int x, int y) {
             int prdct = x * y;
             return prdct;
